@@ -30,4 +30,3 @@ As well as create the files `Uniswap V2.go` and `Uniswap V2.json` in the current
 ```
 go get github.com/sinakhalili/abigenz
 ```
-# abigenz
